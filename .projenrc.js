@@ -7,12 +7,11 @@ const {
 const project = new TypeScriptProject({
   defaultReleaseBranch: 'main',
   jsiiFqn: 'projen.TypeScriptProject',
-  name: 'ts-case-convert',
-  authorEmail: 'ross@UniversalConstructor.co.uk',
-  authorName: 'Ross Williams',
-  authorOrganization: 'Universal Constructor',
+  name: 'typescript-case-convert',
+  authorEmail: 'npm@fmpm.dev',
+  authorName: 'Filipe Miranda',
   description:
-    'Typescript type-preserving conversion of objects between camelCase and snake_case',
+    'Typescript type-preserving conversion of objects between camelCase, snake_case, and PascalCase',
   entrypoint: 'lib/index.js',
   keywords: [
     'typescript',
@@ -25,7 +24,7 @@ const project = new TypeScriptProject({
     'pascal-case',
   ],
   packageManager: NodePackageManager.YARN,
-  repository: 'https://github.com/RossWilliams/ts-case-convert.git',
+  repository: 'https://github.com/filipemir/typescript-case-convert.git',
   codeCov: true,
   codeCovTokenSecret: 'CODECOV_TOKEN',
   releaseToNpm: true,

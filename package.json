@@ -1,9 +1,9 @@
 {
-  "name": "ts-case-convert",
-  "description": "Typescript type-preserving conversion of objects between camelCase and snake_case",
+  "name": "typescript-case-convert",
+  "description": "Typescript type-preserving conversion of objects between camelCase, snake_case, and PascalCase",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RossWilliams/ts-case-convert.git"
+    "url": "https://github.com/filipemir/typescript-case-convert.git"
   },
   "scripts": {
     "clobber": "npx projen clobber",
@@ -25,9 +25,9 @@
     "start": "npx projen start"
   },
   "author": {
-    "name": "Ross Williams",
-    "email": "ross@UniversalConstructor.co.uk",
-    "organization": "Universal Constructor"
+    "name": "Filipe Miranda",
+    "email": "npm@fmpm.dev",
+    "organization": false
   },
   "devDependencies": {
     "@types/jest": "^26.0.23",
