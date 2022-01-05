@@ -1,20 +1,22 @@
 <h1 align="center">typescript-case-convert</h1>
 <p>
-  <a href="https://codecov.io/gh/RossWilliams/ts-case-convert">
-    <img src="https://codecov.io/gh/RossWilliams/ts-case-convert/branch/main/graph/badge.svg?token=LO2GB8K44W"/>
+  <a href="https://codecov.io/gh/filipemir/typescript-case-convert">
+    <img src="https://codecov.io/gh/filipemir/typescript-case-convert/branch/main/graph/badge.svg?token=AYHMX8GX4V"/>
   </a>
-  <a href="https://badge.fury.io/js/ts-case-convert"><img src="https://badge.fury.io/js/ts-case-convert.svg" alt="npm version" height="18"></a>
-  <img alt="npm bundle size" src="https://img.shields.io/bundlephobia/minzip/ts-case-convert?style=flat">
-  <img alt="npm type definitions" src="https://img.shields.io/npm/types/ts-case-convert?style=flat">
-  <img alt="GitHub package.json dependency version (dev dep on branch)" src="https://img.shields.io/github/package-json/dependency-version/rosswilliams/ts-case-convert/dev/typescript">
-  <a href="https://github.com/RossWilliams/ts-case-convert#readme" target="_blank">
+  <a href="https://badge.fury.io/js/typescript-case-convert">
+    <img src="https://badge.fury.io/js/typescript-case-convert.svg" alt="npm version" height="18" />
+  </a>
+  <img alt="npm bundle size" src="https://img.shields.io/bundlephobia/minzip/typescript-case-convert?style=flat">
+  <img alt="npm type definitions" src="https://img.shields.io/npm/types/typescript-case-convert?style=flat">
+  <img alt="GitHub package.json dependency version (dev dep on branch)" src="https://img.shields.io/github/package-json/dependency-version/filipemir/typescript-case-convert/dev/typescript">
+  <a href="https://github.com/filipemir/typescript-case-convert#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/RossWilliams/ts-case-convert/graphs/commit-activity" target="_blank">
+  <a href="https://github.com/filipemir/typescript-case-convert/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/RossWilliams/ts-case-convert/blob/master/LICENSE" target="_blank">
-    <img alt="License: Apache--2.0" src="https://img.shields.io/github/license/RossWilliams/ts-case-convert" />
+  <a href="https://github.com/filipemir/typescript-case-convert/blob/main/LICENSE" target="_blank">
+    <img alt="License: Apache--2.0" src="https://img.shields.io/github/license/filipemir/typescript-case-convert" />
   </a>
 </p>
 
