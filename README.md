@@ -1,4 +1,4 @@
-<h1 align="center">ts-case-convert</h1>
+<h1 align="center">typescript-case-convert</h1>
 <p>
   <a href="https://codecov.io/gh/RossWilliams/ts-case-convert">
     <img src="https://codecov.io/gh/RossWilliams/ts-case-convert/branch/main/graph/badge.svg?token=LO2GB8K44W"/>
@@ -18,7 +18,9 @@
   </a>
 </p>
 
-ts-case-convert converts object keys between camelCase and snake_case while preserving Typescript type information, code completion, and type validation. See tests for detailed conversion tests.
+typescript-case-convert converts object keys between `camelCase`, `snake_case`, and `PascalCase` while preserving Typescript type information, code completion, and type validation. See tests for detailed conversion tests.
+
+> This repo is a fork of [ts-case-convert](https://github.com/RossWilliams/ts-case-convert), which no longer seems to be maintained
 
 ## Usage
 
@@ -67,8 +69,3 @@ yarn run test
 ## Documentation
 
 See [tests](./test/caseConvert.test.ts).
-
-## 📝 License
-
-Copyright © 2021 [Ross Williams](https://github.com/RossWilliams).<br />
-This project is [Apache--2.0](https://github.com/RossWilliams/ts-case-convert/blob/master/LICENSE) licensed.
