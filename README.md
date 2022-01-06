@@ -20,9 +20,10 @@
   </a>
 </p>
 
+> This repo is a fork of [ts-case-convert](https://github.com/RossWilliams/ts-case-convert), which no longer seems to be maintained. All credit for the work should go to its author [@RossWilliams](https://github.com/RossWilliams).
+
 typescript-case-convert converts object keys between `camelCase`, `snake_case`, and `PascalCase` while preserving Typescript type information, code completion, and type validation. See tests for detailed conversion tests.
 
-> This repo is a fork of [ts-case-convert](https://github.com/RossWilliams/ts-case-convert), which no longer seems to be maintained
 
 ## Usage
 
